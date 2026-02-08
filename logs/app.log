@@ -1,0 +1,14 @@
+2026-02-08 16:44:05,743 - INFO - --- Normal Execution ---
+2026-02-08 16:44:06,101 - INFO - img1.jpg resized
+2026-02-08 16:44:10,715 - INFO - img2.webp resized
+2026-02-08 16:44:11,090 - INFO - img3.jpg resized
+2026-02-08 16:44:11,105 - INFO - Normal execution time: 5.36 seconds
+2026-02-08 16:44:11,105 - INFO - --- Multiprocessing Execution ---
+2026-02-08 16:44:11,771 - INFO - img1.jpg resized
+2026-02-08 16:44:11,855 - INFO - img3.jpg resized
+2026-02-08 16:44:15,824 - INFO - img2.webp resized
+2026-02-08 16:44:15,861 - INFO - Multiprocessing execution time: 4.76 seconds
+2026-02-08 16:44:15,862 - INFO - --- Performance Comparison ---
+2026-02-08 16:44:15,862 - INFO - Normal execution took: 5.36 seconds
+2026-02-08 16:44:15,862 - INFO - Multiprocessing execution took: 4.76 seconds
+2026-02-08 16:44:15,862 - INFO - Multiprocessing speedup 1.13x faster
